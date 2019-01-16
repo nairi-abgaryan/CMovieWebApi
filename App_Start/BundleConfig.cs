@@ -23,7 +23,7 @@ namespace CMovieWebApi
                 "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                "~/Content/bootstrap.css",
+                "~/Content/bootstrap-literia.css",
                 "~/Content/site.css"));
         }
     }

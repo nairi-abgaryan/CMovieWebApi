@@ -1,4 +1,4 @@
 /packages/*
 /obj/
 .idea/*
-/obj/Debug
+/obj/Debug/*
